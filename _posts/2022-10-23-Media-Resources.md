@@ -1,5 +1,5 @@
 ---
-Title: Learning Resources
+Title: My Media/Information Feed
 author: Jazz
 date: 2022-10-23
 categories: [Learning Resources]
